@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\Elijah\Desktop\CPT265-Project2\CPT265-Project2\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2App.mc" id="2" lineNum="26" parent="globals" pc="268435460" symbol="getApp"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2App.mc" id="2" lineNum="27" parent="globals" pc="268435470" symbol="getApp"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435481" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2App.mc" id="4" lineNum="5" parent="globals/CPT265_Project2App" pc="268435501" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="7" lineNum="8" parent="globals/CPT265_Project2View" pc="268435513" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2App.mc" id="8" lineNum="12" parent="globals/CPT265_Project2App" pc="268435525" symbol="onStart"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2App.mc" id="9" lineNum="20" parent="globals/CPT265_Project2App" pc="268435528" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2App.mc" id="9" lineNum="21" parent="globals/CPT265_Project2App" pc="268435530" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2App.mc" id="10" lineNum="7" parent="globals/CPT265_Project2App" pc="268435560" symbol="initialize"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2App.mc" id="10" lineNum="8" parent="globals/CPT265_Project2App" pc="268435562" symbol="initialize"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2App.mc" id="11" lineNum="16" parent="globals/CPT265_Project2App" pc="268435575" symbol="onStop"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="12" lineNum="82" parent="globals/CPT265_Project2View" pc="268435578" symbol="updateDate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="12" lineNum="83" parent="globals/CPT265_Project2View" pc="268435581" symbol="updateDate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="12" lineNum="84" parent="globals/CPT265_Project2View" pc="268435607" symbol="updateDate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="12" lineNum="85" parent="globals/CPT265_Project2View" pc="268435657" symbol="updateDate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="12" lineNum="86" parent="globals/CPT265_Project2View" pc="268435681" symbol="updateDate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="14" lineNum="27" parent="globals/CPT265_Project2View" pc="268435694" symbol="onLayout"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="14" lineNum="28" parent="globals/CPT265_Project2View" pc="268435696" symbol="onLayout"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="14" lineNum="29" parent="globals/CPT265_Project2View" pc="268435729" symbol="onLayout"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="14" lineNum="30" parent="globals/CPT265_Project2View" pc="268435767" symbol="onLayout"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="14" lineNum="31" parent="globals/CPT265_Project2View" pc="268435805" symbol="onLayout"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="14" lineNum="32" parent="globals/CPT265_Project2View" pc="268435843" symbol="onLayout"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="14" lineNum="33" parent="globals/CPT265_Project2View" pc="268435881" symbol="onLayout"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="14" lineNum="34" parent="globals/CPT265_Project2View" pc="268435919" symbol="onLayout"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="14" lineNum="35" parent="globals/CPT265_Project2View" pc="268435957" symbol="onLayout"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="14" lineNum="36" parent="globals/CPT265_Project2View" pc="268435995" symbol="onLayout"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="15" lineNum="74" parent="globals/CPT265_Project2View" pc="268436034" symbol="updateTime"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="15" lineNum="75" parent="globals/CPT265_Project2View" pc="268436037" symbol="updateTime"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="15" lineNum="76" parent="globals/CPT265_Project2View" pc="268436063" symbol="updateTime"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="15" lineNum="77" parent="globals/CPT265_Project2View" pc="268436117" symbol="updateTime"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="15" lineNum="78" parent="globals/CPT265_Project2View" pc="268436141" symbol="updateTime"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="15" lineNum="79" parent="globals/CPT265_Project2View" pc="268436153" symbol="updateTime"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="16" lineNum="58" parent="globals/CPT265_Project2View" pc="268436169" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="16" lineNum="59" parent="globals/CPT265_Project2View" pc="268436172" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="16" lineNum="60" parent="globals/CPT265_Project2View" pc="268436189" symbol="getHeartRate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="17" lineNum="68" parent="globals/CPT265_Project2View" pc="268436202" symbol="updateHeartRate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="17" lineNum="69" parent="globals/CPT265_Project2View" pc="268436205" symbol="updateHeartRate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="17" lineNum="70" parent="globals/CPT265_Project2View" pc="268436213" symbol="updateHeartRate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="17" lineNum="71" parent="globals/CPT265_Project2View" pc="268436237" symbol="updateHeartRate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="18" lineNum="63" parent="globals/CPT265_Project2View" pc="268436250" symbol="getHeartRateString"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="18" lineNum="64" parent="globals/CPT265_Project2View" pc="268436253" symbol="getHeartRateString"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="18" lineNum="65" parent="globals/CPT265_Project2View" pc="268436261" symbol="getHeartRateString"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="100" parent="globals/CPT265_Project2View" pc="268436291" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="101" parent="globals/CPT265_Project2View" pc="268436294" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="102" parent="globals/CPT265_Project2View" pc="268436311" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="103" parent="globals/CPT265_Project2View" pc="268436335" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="105" parent="globals/CPT265_Project2View" pc="268436365" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="106" parent="globals/CPT265_Project2View" pc="268436389" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="107" parent="globals/CPT265_Project2View" pc="268436413" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="108" parent="globals/CPT265_Project2View" pc="268436437" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="109" parent="globals/CPT265_Project2View" pc="268436461" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="111" parent="globals/CPT265_Project2View" pc="268436485" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="112" parent="globals/CPT265_Project2View" pc="268436496" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="113" parent="globals/CPT265_Project2View" pc="268436507" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="114" parent="globals/CPT265_Project2View" pc="268436518" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="115" parent="globals/CPT265_Project2View" pc="268436529" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="117" parent="globals/CPT265_Project2View" pc="268436540" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="118" parent="globals/CPT265_Project2View" pc="268436548" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="119" parent="globals/CPT265_Project2View" pc="268436562" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="120" parent="globals/CPT265_Project2View" pc="268436570" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="121" parent="globals/CPT265_Project2View" pc="268436584" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="122" parent="globals/CPT265_Project2View" pc="268436592" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="123" parent="globals/CPT265_Project2View" pc="268436606" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="124" parent="globals/CPT265_Project2View" pc="268436614" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="19" lineNum="126" parent="globals/CPT265_Project2View" pc="268436628" symbol="updateBattery"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="20" lineNum="89" parent="globals/CPT265_Project2View" pc="268436640" symbol="updateSteps"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="20" lineNum="90" parent="globals/CPT265_Project2View" pc="268436643" symbol="updateSteps"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="20" lineNum="91" parent="globals/CPT265_Project2View" pc="268436655" symbol="updateSteps"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="20" lineNum="92" parent="globals/CPT265_Project2View" pc="268436674" symbol="updateSteps"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="20" lineNum="93" parent="globals/CPT265_Project2View" pc="268436698" symbol="updateSteps"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="20" lineNum="94" parent="globals/CPT265_Project2View" pc="268436705" symbol="updateSteps"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="20" lineNum="96" parent="globals/CPT265_Project2View" pc="268436725" symbol="updateSteps"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="21" lineNum="19" parent="globals/CPT265_Project2View" pc="268436741" symbol="initialize"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="21" lineNum="20" parent="globals/CPT265_Project2View" pc="268436743" symbol="initialize"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="22" lineNum="46" parent="globals/CPT265_Project2View" pc="268436756" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="22" lineNum="50" parent="globals/CPT265_Project2View" pc="268436758" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="22" lineNum="51" parent="globals/CPT265_Project2View" pc="268436765" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="22" lineNum="52" parent="globals/CPT265_Project2View" pc="268436772" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="22" lineNum="53" parent="globals/CPT265_Project2View" pc="268436779" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="22" lineNum="54" parent="globals/CPT265_Project2View" pc="268436786" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\source\\CPT265-Project2View.mc" id="22" lineNum="55" parent="globals/CPT265_Project2View" pc="268436793" symbol="onUpdate"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="26" parent="globals/Rez/Layouts" pc="268436814" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="27" parent="globals/Rez/Layouts" pc="268436825" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="29" parent="globals/Rez/Layouts" pc="268436904" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="31" parent="globals/Rez/Layouts" pc="268436985" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="33" parent="globals/Rez/Layouts" pc="268437069" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="35" parent="globals/Rez/Layouts" pc="268437152" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="37" parent="globals/Rez/Layouts" pc="268437235" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="38" parent="globals/Rez/Layouts" pc="268437320" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="40" parent="globals/Rez/Layouts" pc="268437341" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="42" parent="globals/Rez/Layouts" pc="268437425" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="44" parent="globals/Rez/Layouts" pc="268437505" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="46" parent="globals/Rez/Layouts" pc="268437587" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="48" parent="globals/Rez/Layouts" pc="268437669" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="50" parent="globals/Rez/Layouts" pc="268437751" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="52" parent="globals/Rez/Layouts" pc="268437833" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="54" parent="globals/Rez/Layouts" pc="268437915" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="55" parent="globals/Rez/Layouts" pc="268437999" symbol="WatchFace"/>
+<entry filename="c:\\Users\\Elijah\\Desktop\\CPT265-Project2\\CPT265-Project2\\bin\\gen\\006-B4315-00\\source\\Rez.mcgen" id="23" lineNum="57" parent="globals/Rez/Layouts" pc="268438031" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="30" symbol="BatteryLabel5"/>
+<entry field="true" id="29" symbol="BatteryLabel4"/>
+<entry field="true" id="28" symbol="BatteryLabel3"/>
+<entry field="true" id="27" symbol="BatteryLabel2"/>
+<entry field="true" id="26" symbol="BatteryLabel1"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="36" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="6" module="true" symbol="globals/Rez/Strings"/>
+<entry field="true" id="14" symbol="BL5"/>
+<entry field="true" id="13" symbol="BL4"/>
+<entry field="true" id="12" symbol="BL3"/>
+<entry field="true" id="11" symbol="BL2"/>
+<entry field="true" id="10" symbol="BL1"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="22" method="true" symbol="updateDate"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="15" method="true" symbol="getHeartRate"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="16" method="true" symbol="getHeartRateString"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="34" symbol="StepsIcon"/>
+<entry field="true" id="35" symbol="backgroundImage"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="5" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="23" method="true" symbol="updateHeartRate"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8" object="true" symbol="CPT265_Project2View"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="7" object="true" symbol="CPT265_Project2App"/>
+<entry id="21" method="true" symbol="updateBattery"/>
+<entry id="25" method="true" symbol="updateTime"/>
+<entry field="true" id="31" symbol="HeartRateIcon"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="33" symbol="LogoLabel"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="32" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="19" symbol="myImage2"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389347" symbol="color"/>
+<entry field="true" id="17" symbol="myFont"/>
+<entry field="true" id="20" symbol="stepsIcon"/>
+<entry id="9" module="true" symbol="Layouts"/>
+<entry id="24" method="true" symbol="updateSteps"/>
+<entry field="true" id="18" symbol="myImage"/>
+<entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435692" name="today" stackId="1" startPc="268435581"/>
+<entry endPc="268435692" name="dateString" stackId="2" startPc="268435581"/>
+<entry endPc="268435692" name="dateView" stackId="3" startPc="268435581"/>
+<entry arg="true" endPc="268436033" name="dc" stackId="1" startPc="268435694"/>
+<entry endPc="268436167" name="today" stackId="1" startPc="268436037"/>
+<entry endPc="268436167" name="timeString" stackId="2" startPc="268436037"/>
+<entry endPc="268436167" name="timeView" stackId="3" startPc="268436037"/>
+<entry endPc="268436201" name="heartrateIterator" stackId="1" startPc="268436172"/>
+<entry endPc="268436248" name="heartRateString" stackId="1" startPc="268436205"/>
+<entry endPc="268436248" name="heartRateView" stackId="2" startPc="268436205"/>
+<entry endPc="268436290" name="heartRate" stackId="1" startPc="268436253"/>
+<entry endPc="268436638" name="batteryLevel" stackId="1" startPc="268436294"/>
+<entry endPc="268436638" name="batteryView" stackId="2" startPc="268436294"/>
+<entry endPc="268436638" name="batteryLabel1" stackId="3" startPc="268436294"/>
+<entry endPc="268436638" name="batteryLabel2" stackId="4" startPc="268436294"/>
+<entry endPc="268436638" name="batteryLabel3" stackId="5" startPc="268436294"/>
+<entry endPc="268436638" name="batteryLabel4" stackId="6" startPc="268436294"/>
+<entry endPc="268436638" name="batteryLabel5" stackId="7" startPc="268436294"/>
+<entry endPc="268436739" name="stepInfo" stackId="1" startPc="268436643"/>
+<entry endPc="268436739" name="steps" stackId="2" startPc="268436643"/>
+<entry endPc="268436739" name="stepsView" stackId="3" startPc="268436643"/>
+<entry arg="true" endPc="268436813" name="dc" stackId="1" startPc="268436756"/>
+<entry arg="true" endPc="268438105" name="dc" stackId="1" startPc="268436814"/>
+<entry endPc="268438105" name="rez_cmp_local_bitmap_backgroundImage" stackId="2" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_bitmap_HeartRateIcon" stackId="3" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_text_HeartRateLabel" stackId="4" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_text_TimeLabel" stackId="5" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_text_DateLabel" stackId="6" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_bitmap_StepsIcon" stackId="7" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_text_StepsLabel" stackId="8" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_text_BatteryLabel" stackId="9" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_bitmap_BatteryLabel1" stackId="10" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_bitmap_BatteryLabel2" stackId="11" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_bitmap_BatteryLabel3" stackId="12" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_bitmap_BatteryLabel4" stackId="13" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_bitmap_BatteryLabel5" stackId="14" startPc="268436825"/>
+<entry endPc="268438105" name="rez_cmp_local_bitmap_LogoLabel" stackId="15" startPc="268436825"/>
+</localVars>
+<deviceInfo deviceVersion="4866e5192c0c99025597cd8e6e841f3d774b64f7" partNumber="006-B4315-00"/>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="backgroundImage"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BatteryLabel4"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LogoLabel"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BatteryLabel3"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="StepsIcon"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="myFont"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BatteryLabel2"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BatteryLabel1"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="HeartRateIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BatteryLabel5"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="67" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="161" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/CPT265_Project2App" offset="223" parentId="globals" symbolId="CPT265_Project2App" type="class"/>
+<dataEntry label="globals/CPT265_Project2View" offset="294" parentId="globals" symbolId="CPT265_Project2View" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="509" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="625" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="660" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="695" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="onExitSleep">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435480" name="getApp" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435500" name="&lt;init&gt;" parent="Rez" startPc="268435481">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435512" name="&lt;init&gt;" parent="CPT265_Project2App" startPc="268435501">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435524" name="&lt;init&gt;" parent="CPT265_Project2View" startPc="268435513">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435527" name="onStart" parent="CPT265_Project2App" startPc="268435525">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435559" name="getInitialView" parent="CPT265_Project2App" startPc="268435528">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435574" name="initialize" parent="CPT265_Project2App" startPc="268435560">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435577" name="onStop" parent="CPT265_Project2App" startPc="268435575">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435693" name="updateDate" parent="CPT265_Project2View" startPc="268435578">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="CPT265_Project2View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436033" name="onLayout" parent="CPT265_Project2View" startPc="268435694">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436168" name="updateTime" parent="CPT265_Project2View" startPc="268436034">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436201" name="getHeartRate" parent="CPT265_Project2View" startPc="268436169">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436249" name="updateHeartRate" parent="CPT265_Project2View" startPc="268436202">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436290" name="getHeartRateString" parent="CPT265_Project2View" startPc="268436250">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436639" name="updateBattery" parent="CPT265_Project2View" startPc="268436291">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436740" name="updateSteps" parent="CPT265_Project2View" startPc="268436640">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436755" name="initialize" parent="CPT265_Project2View" startPc="268436741">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436813" name="onUpdate" parent="CPT265_Project2View" startPc="268436756">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438105" name="WatchFace" parent="Layouts" startPc="268436814">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

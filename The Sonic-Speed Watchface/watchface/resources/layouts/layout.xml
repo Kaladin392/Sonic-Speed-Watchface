@@ -1,0 +1,84 @@
+<layout id="WatchFace">
+    <bitmap id="backgroundImage" 
+            filename="background.png" 
+            x="0"
+            y="0"
+            scaleX="100%" 
+            scaleY="100%" />
+    
+    <bitmap id="HeartRateIcon"
+            filename="heart_rate_icon.png"
+            x="108"
+            y="78" />
+    
+    <label id="HeartRateLabel" 
+            x="160" 
+            y="65" 
+            font="Graphics.FONT_SMALL" 
+            justification="Graphics.TEXT_JUSTIFY_CENTER" 
+            color="Graphics.COLOR_RED" />
+
+    <label id="TimeLabel" 
+            x="center" 
+            y="160" 
+            font="Graphics.FONT_MEDIUM" 
+            justification="Graphics.TEXT_JUSTIFY_CENTER" 
+            color="Graphics.COLOR_BLACK" />
+
+    <label id="DateLabel" 
+            x="center" 
+            y="260" 
+            font="Graphics.FONT_SMALL" 
+            justification="Graphics.TEXT_JUSTIFY_CENTER" 
+            color="Graphics.COLOR_BLACK" />
+
+    <bitmap id="StepsIcon" 
+            filename="steps_icon.png" 
+            x="20%" 
+            y="350" />
+
+    <label id="StepsLabel"
+            x="190"
+            y="355"
+            font="Graphics.FONT_SMALL"
+            justification="Graphics.TEXT_JUSTIFY_CENTER"
+            color="Graphics.COLOR_BLUE"/>
+
+    <label id="BatteryLabel"
+            x="300"
+            y="65"
+            font="Graphics.FONT_SMALL"
+            justification="Graphics.TEXT_JUSTIFY_CENTER"
+            color="Graphics.COLOR_BLACK"/> 
+    
+    <bitmap id="BatteryLabel1"
+            filename="BL_100.png"
+            x="270"
+            y="110"/>
+
+    <bitmap id="BatteryLabel2"
+            filename="BL_75.png"
+            x="270"
+            y="110"/>
+
+    <bitmap id="BatteryLabel3"
+            filename="BL_50.png"
+            x="270"
+            y="110"/>
+
+    <bitmap id="BatteryLabel4"
+            filename="BL_25.png"
+            x="270"
+            y="110"/>
+
+    <bitmap id="BatteryLabel5"
+            filename="BL_5.png"
+            x="270"
+            y="110"/>
+
+    <bitmap id="LogoLabel"
+            filename="sonic.png"
+            x="center"
+            y="10"/>
+    
+</layout>
